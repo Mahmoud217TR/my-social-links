@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.font-arimo {
+  font-family: "Arimo", sans-serif;
+}
