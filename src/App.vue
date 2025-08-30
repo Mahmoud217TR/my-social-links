@@ -10,7 +10,9 @@
         group-hover:opacity-100 group-hover:duration-200 transform -translate-x-1/2 z-10">
       </div>
       <img class="aspect-square w-40 lg:w-60 mx-auto rounded-full select-none overflow-hidden mb-4 relative z-20"
-        src="./assets/pfp.webp" alt="Mahmoud Mahmoud (MahmoudTR) - (Marlo)" title="Mahmoud Mahmoud (MahmoudTR) - (Marlo)">
+        src="./assets/pfp.webp" alt="Mahmoud Mahmoud (MahmoudTR) - (Marlo)" title="Mahmoud Mahmoud (MahmoudTR) - (Marlo)"
+        fetchpriority="high"
+      >
     </div>
       <h1 class="text-center text-2xl md:text-3xl font-bold">
           Mahmoud Mahmoud
