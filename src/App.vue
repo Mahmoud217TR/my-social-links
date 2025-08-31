@@ -23,7 +23,7 @@
   </header>
 
   <main>
-    <div class="flex flex-col max-w-4/5 md:max-w-md gap-8 mx-auto">
+    <div class="flex flex-col max-w-4/5 md:max-w-md gap-10 mx-auto">
       <SocialLink v-for="link in links" :link="link.url" :title="link.name">
         <div class="grid grid-cols-4 md:grid-cols-5 items-center text-2xl w-full gap-6">
           <font-awesome-icon class="ms-auto md:col-span-2" :icon="link.icon" />

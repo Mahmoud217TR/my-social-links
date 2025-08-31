@@ -1,7 +1,7 @@
 <template>
   <div class="relative inline-flex items-center justify-center gap-4 group">
     <div class="absolute inset-0 duration-1000 opacity-60 transitiona-all bg-gradient-to-r
-    from-red-500 via-rose-500 to-amber-500 rounded-xl blur-lg filter
+    from-red-500 via-rose-500 to-amber-500 rounded-xl blur-md filter
       group-hover:opacity-100 group-hover:duration-200">
     </div>
     <a class="group relative inline-flex items-center justify-center text-base rounded-xl bg-gray-900
